@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Anassatti
-- 👀 I’m interested in Data science & Data analytics 
+- 👀 I’m interested in Automation Testing 
+& Data science & Data analytics 
+
 - 🌱 I’m currently learning Data science & Data analytics 
 - 💞️ I’m looking to collaborate on Data science & Data analytics 
 - 📫 How to reach me ...
