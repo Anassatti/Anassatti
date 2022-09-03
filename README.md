@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Anassatti
+- 👋 Hi, I’m @Anassatti, I'm autodidact(a self-taught learning)
 - 👀 I’m interested in Building Automation Testing Solutions by using AI(Machine Learning, Deep Learning)
 - 🌱 I’m passionate about building test automation frameworks(Web, Mobile, Webservices) by using different programming languages such as Java, Python, C#.
 - 🌱 I’m passionate about Data Science & Data analytics.
-- 💞️ I’m looking to collaborate on Automation testing, Data science & data analytics 
 - 📫 How to reach me (anasssatti@yahoo.com)
 
 <!---
