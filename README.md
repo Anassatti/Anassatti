@@ -1,4 +1,4 @@
-- 👋 Hi, I'm autodidact(a self-taught learning
+- 👋 Hi, I'm autodidact(a self-taught learning)
 - 👋👋👋 I know you get confused who am I, data scientist, analyst, automation tester, BA, ETL tester. The answer is simple I'm all of that, I believe nothing impossible
 - 👀 I’m interested in Building Automation Testing Solutions by using AI(Machine Learning, Deep Learning)
 - 🌱 I’m passionate about building test automation frameworks(Web, Mobile, Webservices) by using different programming languages such as Java, Python, C#.
