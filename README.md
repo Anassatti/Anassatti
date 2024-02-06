@@ -1,5 +1,5 @@
 - 👋 Hi, I'm autodidact(a self-taught learning)
-- 👋👋👋 I know you get confused because different kinds of project you will see, data scientist, analyst, automation tester, BA, ETL tester. The answer is simple I am a man of interest, I believe nothing impossible
+- 👋👋👋 I am a reviewer of test automation tools, once a new tool introduce I learn it and then test on actual project after that I give honest opinion based on real experience.
 - 👀 I’m interested in Building Automation Testing Solutions by using AI(Machine Learning, Deep Learning)
 - 🌱 I’m passionate about building test automation frameworks(Web, Mobile, Webservices) by using different programming languages such as Java, Python, C#.
 - 🌱 I’m passionate about Data Science & Data analytics.
