@@ -1,6 +1,6 @@
 Hi, I'm Anas Satti 👋
 AI Solutions & Agentic AI Builder | QA & Test Automation Leader | SaaS Founder
-I'm a technology professional based in Qatar with 16+ years of experience in software quality engineering, test management, automation, and enterprise digital transformation. I build practical AI-powered products, combining hands-on engineering with a strong focus on reliability, user experience, and real business problems.
+I'm a technology professional with 16+ years of experience in software quality engineering, test management, automation, and enterprise digital transformation. I build practical AI-powered products, combining hands-on engineering with a strong focus on reliability, user experience, and real business problems.
 
 My current interests span generative AI, AI agents, retrieval-augmented generation (RAG), intelligent test automation, and SaaS product engineering. I'm also a lifelong, self-directed learner interested in applied machine learning and AI research.
 🚀 What I build
